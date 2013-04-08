@@ -1,0 +1,10 @@
+   Stream Title: KPSU High-bandwith Stream
+   Stream Description: Live stream of the KPSU broadcast.
+   Content Type: audio/mpeg
+   Mount started: Tue, 02 Apr 2013 19:03:21 +0000
+   Bitrate: 128
+   Current Listeners: 5
+   Peak Listeners: 27
+   Stream Genre: College Radio
+   Stream URL: http://stream.kpsu.org
+   Current Song: 
